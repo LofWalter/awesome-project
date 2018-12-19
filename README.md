@@ -1,4 +1,4 @@
-# Awesome-project
+# Awesome projects
 *That contains some awesome projects*
 
 ## WebTorrent
