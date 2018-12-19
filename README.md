@@ -18,3 +18,12 @@ https://github.com/storybooks/storybook
 *Bit works with Git and NPM to improve the workflow around code-sharing.*
 
 https://github.com/teambit/bit
+
+## Animation components
+
+### react-spring
+
+*React-spring is a spring physics based animation library for React.*
+
+https://github.com/react-spring/react-spring
+
